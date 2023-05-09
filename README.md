@@ -20,5 +20,6 @@ When I'm not coding, I love to play music. Here are some of my favorite songs:
 - [Song 3](https://www.youtube.com/watch?v=Vqfy4ScRXFQ)
 ## 📊 GitHub Stats
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=Wahdannajmil&show_icons=true)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=Wahdannajmil&show_icons=true&theme=dark)
+
 
