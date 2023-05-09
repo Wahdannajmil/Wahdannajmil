@@ -20,6 +20,5 @@ You can reach me at [najmilwahdan@gmail.com] or connect with me on [LinkedIn](ht
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[https://github.com/Wahdannajmil]&show_icons=true)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=Wahdannajmil&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/Wahdannajmil]&layout=compact)
